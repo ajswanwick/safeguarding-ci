@@ -43,13 +43,52 @@ footer{
 }
 
 
-.container{
-    margin-top: 10px;
-    background-color:rgba(226, 97, 177, 0.5);
-    padding: 10px;
+.container-fluid{
+    margin-top: 5px;
 }
+   
+
 
 
 .uppercase{
     text-transform: uppercase;
+}
+ .about-section{
+    background-color:  rgba(226, 97, 177, 0.5);
+    margin-bottom: 5px;
+   
+
+    
+}
+   
+.signs-section{
+    background-color:  rgba(165, 229, 229, 0.5); 
+    margin-bottom: 5px;
+  
+   
+   
+}
+
+.action-section{
+    background-color: rgba(226, 179, 97, 0.5);
+    margin-bottom: 5px;
+  
+
+ 
+   
+   
+}
+
+.contact-section{
+    background-color: rgba(211, 226, 97, 0.5); 
+    margin-bottom: 5px;
+  
+  
+
+}
+
+
+    
+@media screen (min-width:){
+    
 }
