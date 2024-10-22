@@ -99,8 +99,15 @@ footer{
     
 }
 
+.center-form{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
 
-    
+
+li{
+    list-style-type: none;
+}    
  
 
 
