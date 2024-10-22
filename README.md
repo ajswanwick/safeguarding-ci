@@ -8,7 +8,7 @@ how and to raise concerns
 
 
 ---
-
+##Aims
  wanted this website to be easy to navigate, with pastel colors that are warm and clear
  This website was designed to be easy to navigate with large menu bars that have links to the content
 
