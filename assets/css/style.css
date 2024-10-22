@@ -51,11 +51,7 @@ main{
 }
 
 
-footer{
-    display: flex;
-justify-content: center;
 
-}
    
 
 
@@ -131,7 +127,9 @@ a:link{
     color: #000000;
 }
 
-
+.download-section{
+    text-align: center;
+}
 
 
 @media screen and (min-width:768px) {
