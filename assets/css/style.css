@@ -33,7 +33,7 @@ footer{
     position:absolute;
     border-radius: 5%;
     font-size: 110%;
-    bottom: 500px;
+   /* bottom: 500px;*/
     margin: 0px 15px;
     min-height: 100px;
     color: #fafafa;
@@ -115,14 +115,23 @@ a:link{
 
 @media screen and (min-width:768px) {
     #hero-text{
-        position: absolute;
+       
         bottom:650px;
     }
 }
 
-@media screen and (min-width:1600px) {
+@media screen and (min-width:900px) {
     #hero-text{
-        bottom:700px
+        bottom:400px;
+     
+
+    }
+    
+}
+
+@media screen and (min-width:1200px) {
+    #hero-text{
+        bottom:500px
     }
     }
 
