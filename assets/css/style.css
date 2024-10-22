@@ -4,8 +4,7 @@
 
 body{
     min-height: 100vh;
-    /*display: flex;
-    flex-direction: column;*/
+ 
    
 }
 
@@ -16,7 +15,7 @@ main{
     display: flex;
     flex-direction: column;
     max-height: fit-content;
-    margin-bottom: 0px;
+
    
    
 }
@@ -29,10 +28,10 @@ main{
     background: url("../images/hands.jpg") no-repeat center center/cover;
       height:400px;
        width:100%;
-       
+       }
+
+  
     
-    
-}
 
 #hero-text{
     background-color: rgba(226, 97, 177, 0.5);
@@ -64,6 +63,7 @@ main{
     color: #fafafa;
     padding: 20px;
     text-align: center;
+    
  }  
 
 
@@ -161,6 +161,7 @@ li{
 footer{
     display: flex;
     justify-content: center;
+    border: 1px solid black;
  
   
 }
@@ -207,7 +208,9 @@ a:link{
     }
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:1200px),
+       screen and (max-height:990px)
+        {
     #hero-text{
         bottom:500px
     }
