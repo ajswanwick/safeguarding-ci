@@ -33,8 +33,21 @@ this is how i wanted the sections to re-organise after a section is selected
 
 
 ----
+## references 
+in building this page i used The Love Running Project and Love rosie project for guidance, the form on thr contact page was used from the love rosie page, 
 
-#Bugs
+The content within the pages were taken from various pages including the NHS and NSPCC
+
+There is also a link within this page on the contact form to the nspcc 
+
+This page was built using various techniques, 
+the page was styled using flexbox for the main
+i used bootstap5 to design the sections 
+
+
+
+
+# Bugs
 
 although the content has been checked and tested there are some small responsive issues on some different screen sizes, for mobile, laptop these seem fine there are some breakpoints that will need to be fixed purely for aesthetics
 
