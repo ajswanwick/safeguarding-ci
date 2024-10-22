@@ -158,7 +158,12 @@ li{
     
 }    
  
-
+footer{
+    display: flex;
+    justify-content: center;
+ 
+  
+}
 
 a{
     text-decoration: none;
@@ -183,6 +188,11 @@ a:link{
     #hero-text{
        
         bottom:650px;
+    }
+
+    footer{
+        display: flex;
+        justify-content: center;
     }
 }
 
