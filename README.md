@@ -30,7 +30,6 @@ I made the entire heading spaces links to the sections so it was very user frien
 i wanted to achieve a fairly neutral color scheme that was easy to navigate and identify which sections the user would be on,
 
 
- ![alt text](image.png)
 
  this is a screen grab for a mobile, you can see all the headers stack 
 
@@ -38,7 +37,7 @@ wheras in desktop they are in rows
 
 
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 this is an image of the wireframe model i set out you can see i wanted to make 4 clear sections that was very user friendly
 
 ![alt text](image-3.png)
