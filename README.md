@@ -37,10 +37,10 @@ wheras in desktop they are in rows
 
 
 
-![alt text](image-3.png)
+![alt text](/assets/images/image-3.png)
 this is an image of the wireframe model i set out you can see i wanted to make 4 clear sections that was very user friendly
 
-![alt text](image-3.png)
+![alt text](/assets/images/image-2.png)
 
 this is how i wanted the sections to re-organise after a section is selected 
 
@@ -60,7 +60,7 @@ there is some responsiveness issues that need to be ironed out as some breakpoin
 
 # Deployment
 
-![alt text](image-1.png)
+![alt text](/assets/images/image-1.png)
 this is an image for a mobile screen size, nice and centered and following the color scheme for the headers
 
 The website was deployed at an early stage, with no issues, 
